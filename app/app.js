@@ -1,5 +1,6 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
+var express = require('express');
 var ReactRouter = require('react-router');
 var PureRenderMixin = require('react-addons-pure-render-mixin');
 var $ = require('jquery');
